@@ -6,3 +6,5 @@ langchain-groq
 python-dotenv
 ddgs
 requests
+arxiv
+wikipedia
