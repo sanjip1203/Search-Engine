@@ -47,7 +47,7 @@ It also displays the agent’s **thoughts and tool usage live** using `Streamlit
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/your-username/Search-Engine.git
+https://github.com/sanjip1203/Search-Engine
 cd Search-Engine
 ```
 
